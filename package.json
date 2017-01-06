@@ -1,0 +1,28 @@
+{
+  "name": "outils",
+  "version": "0.0.1",
+  "description": "Utilities for object",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaactzab/node-outils.git"
+  },
+  "keywords": [
+    "object",
+    "utilities",
+    "iterate",
+    "parse",
+    "deep",
+    "iteration",
+    "clone"
+  ],
+  "author": "Isaac Tzab",
+  "license": "LicenseRef-LICENSE",
+  "bugs": {
+    "url": "https://github.com/isaactzab/node-outils/issues"
+  },
+  "homepage": "https://github.com/isaactzab/node-outils#readme"
+}
